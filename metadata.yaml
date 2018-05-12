@@ -1,0 +1,35 @@
+_repo: Math-matiques-et-Math-maticiensPens-es-et-Curiosit-s_41991
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Rebière, A. (Alphonse)
+    aliases:
+    - Rebière, Alphonse
+    - Rebiere, A. (Alphonse)
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '41464'
+    url: http://www.gutenberg.org/2009/agents/41464
+covers:
+- cover_type: archival
+  image_path: 41991-h/images/cover-page.jpg
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41991'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics -- France -- Quotations, maxims, etc.'
+- !lcc 'QA'
+- !lcsh 'Quotations'
+- !lcsh 'Mathematicians'
+- !lcsh 'Mathematicians -- France'
+- !lcsh 'Mathematics -- Quotations, maxims, etc.'
+- !lcsh 'Quotations, French'
+title: 'Mathématiques et Mathématiciens: Pensées et Curiosités'
+url: http://www.gutenberg.org/ebooks/41991
