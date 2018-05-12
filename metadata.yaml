@@ -14,6 +14,8 @@ covers:
 - cover_type: archival
   image_path: 41991-h/images/cover-page.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41991#Math-matiques-et-Math-maticiensPens-es-et-Curiosit-s
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
